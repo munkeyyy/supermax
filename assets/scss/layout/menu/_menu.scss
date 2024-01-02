@@ -6,7 +6,7 @@
 
 .main-menu{
     @media #{$lg}{
-        margin:20px 37px 20px 0;
+        margin-left: 50px;
     }
     & > nav {
 
@@ -15,7 +15,7 @@
                 position: relative;
                 list-style: none;
                 display: inline-block;
-                margin:20px 37px 20px 0;
+                margin-right: 54px;
                 & > a{
                     display: inline-block;
                     font-size: 16px;
