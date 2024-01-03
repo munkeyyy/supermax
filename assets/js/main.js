@@ -13,7 +13,7 @@
 	////////////////////////////////////////////////////
 	// 01. PreLoader Js
 	windowOn.on('load', function () {
-		$("#loading").fadeOut(500);
+		$("#loading").fadeOut(200);
 	});
 
 
