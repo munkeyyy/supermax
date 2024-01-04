@@ -12531,13 +12531,12 @@ html .ui-button.ui-state-disabled:active {
   margin: 20px 25px 20px 0 !important;
 }
 
-
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .new-nav {
     margin: 20px 19px 20px 0 !important;
     font-size: 0.9vw !important;
   }
-  .tpheader__main-menu .main-menu ul li a{
+  .tpheader__main-menu .main-menu ul li a {
     font-size: 1vw !important;
   }
 }
@@ -12545,17 +12544,24 @@ html .ui-button.ui-state-disabled:active {
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .new-nav {
     margin: 20px 11px 20px 0 !important;
-
   }
 
-  .tpheader__main-menu .main-menu ul li a{
-    font-size: 1vw !important;
+  .tpheader__main-menu .main-menu ul li a {
+    font-size: 0.99vw !important;
   }
-
 }
 
-
 /* OUR SERVICES */
+
+.intro-desc {
+  padding: 0vw clamp(1vw,12vw, 8vw) 1vw !important;
+}
+
+@media  screen and (min-width: 1200px) and (max-width: 1399px) {
+  .services-intro {
+    padding: 0vw 1vw 1vw !important;
+  }
+}
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-project-titile-1 {
@@ -12569,9 +12575,11 @@ html .ui-button.ui-state-disabled:active {
   }
 }
 
-
 /* about-page */
 
-.tp-about__wrap{
+.tp-about__wrap {
   margin-top: auto;
+}
+.img{
+  left: -40px !important;
 }
