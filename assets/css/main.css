@@ -12565,13 +12565,13 @@ html .ui-button.ui-state-disabled:active {
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-project-titile-1 {
-    font-size: 14.5px !important;
+    font-size: 1.5vw !important;
   }
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-project-titile-1 {
-    font-size: 14px !important;
+    font-size: 1vw !important;
   }
 }
 
@@ -12583,3 +12583,16 @@ html .ui-button.ui-state-disabled:active {
 .img{
   left: -40px !important;
 }
+
+
+/* Why Choose Us */
+
+@media only screen and (min-width:320px) and (max-width:480px){
+  .tp-project-box{
+    width: 100% !important;
+  }
+  .slide{
+    padding: 10px !important;
+  }
+}
+
