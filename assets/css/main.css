@@ -12596,3 +12596,26 @@ html .ui-button.ui-state-disabled:active {
   }
 }
 
+
+/* provisions */
+
+.sidebar-nav{
+  flex-direction: column !important;
+  flex-wrap: nowrap !important;
+}
+
+.nav-link{
+  color: rgb(4, 23, 26);
+  width: 100%;
+  font-weight: 600;
+  text-align: left;
+  transition: all .5s;
+}
+.nav-link:hover{
+  color: black;
+}
+.provision .nav-link.active{
+  background-color: #ffbf42;
+  color: white;
+  border-radius: 0;
+}
