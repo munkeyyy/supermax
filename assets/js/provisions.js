@@ -340,6 +340,5 @@ document.addEventListener("DOMContentLoaded", function() {
         provisionCardsContainer.innerHTML = cardHtmlArray.join(' ');
     }
 
-    // Call the function to populate the cards with data
     populateCards(cardDataArray);
 });
