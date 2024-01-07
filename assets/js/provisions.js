@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       imageUrl: "assets/img/provisions/dairy.jpg",
       iconClass: "fi fi-rr-egg",
-      title: "Eggs/Milk/Yogurt/Ice Cream",
+      title: "Eggs/Milk/Ice-Cream",
       description:
         "Essential dairy and frozen treats for balanced maritime diets",
       readMoreLink: "#",
