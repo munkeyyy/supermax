@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // provision and health care
   var cardDataArray = [
     {
       imageUrl: "assets/img/provisions/bond.jpg",
@@ -317,41 +318,110 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   ];
 
-  function populateCards(dataArray) {
-    var provisionCardsContainer = document.querySelector("#provision_card");
 
-    var cardHtmlArray = dataArray.map(function (data) {
+  // medicineDataArray
+  
+  var medicineCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/medical-1.jpg",
+      iconClass: "fi fi-rr-syringe",
+      title: "Dressings and Medical Instruments",
+      description:
+        "Essential tools for medical care, ensuring on-board health needs.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Health Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/medical-3.jpg",
+      iconClass: "fi fi-rr-diary-clasp",
+      title: "Recommended Medicines - Third Edition",
+      description:
+        "Updated medications per the latest International Medical Guide for Ships.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Health Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/medical-2.jpg",
+      iconClass: "fi fi-rr-stethoscope",
+      title: "Medical Stores for UK Merchant Ships",
+      description: "UK-regulated supplies, ensuring compliance with maritime health standards and regulations.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Health Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/medical-4.jpg",
+      iconClass: "fi fi-rr-capsules",
+      title: "Medicines",
+      description:
+        "Broad range of pharmaceuticals ensuring comprehensive health care at sea.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Health Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/medical-5.jpg",
+      iconClass: "fi fi-rr-pharmacy",
+      title: "MFAG Appendix 14",
+      description:
+        "Comprehensive list of recommended medicines and medical equipment.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Health Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+  ];
+
+
+
+
+  function populateCards(dataArray, containerId) {
+    var cardsContainer = document.querySelector(`#`+ containerId);
+    console.log(cardsContainer)
+    console.log(dataArray)
+    var cardHtmlArray = dataArray.map((data)=> {
       return `
-                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                    <div class="tp-services-3__item p-relative mb-30 z-index-2 wow fadeInUp"
-                        data-wow-duration=".9s"
-                        data-wow-delay=".3s">
-                        <div class="tp-services-3__thumb p-relative">
-                            <img class="w-100" src="${data.imageUrl}" alt="">
-                        </div>
-                        <div class="tp-services-3__wrap d-flex align-items-start">
-                            <div class="tp-services-3__icon">
-                                <span><i class="fa ${data.iconClass}"></i></span>
-                            </div>
-                            <div class="tp-services-3__content">
-                                <h3 class="tp-services-3-title-3">
-                                    <a href="${data.readMoreLink}">${data.title}</a>
-                                </h3>
-                                <p>${data.description}</p>
-                                <div class="tp-services-3__btn">
-                                    <a class="tp-services-btn" href="${data.contactLink}">
-                                        ${data.readMoreText}<i class="${data.arrowIconClass}"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+          <div class="tp-services-3__item p-relative mb-30 z-index-2 wow fadeInUp"
+            data-wow-duration=".9s"
+            data-wow-delay=".3s">
+            <div class="tp-services-3__thumb p-relative">
+              <img class="w-100" src="${data.imageUrl}" alt="">
+            </div>
+            <div class="tp-services-3__wrap d-flex align-items-start">
+              <div class="tp-services-3__icon">
+                <span><i class="fa ${data.iconClass}"></i></span>
+              </div>
+              <div class="tp-services-3__content">
+                <h3 class="tp-services-3-title-3">
+                  <a href="${data.readMoreLink}">${data.title}</a>
+                </h3>
+                <p>${data.description}</p>
+                <div class="tp-services-3__btn">
+                  <a class="tp-services-btn" href="${data.contactLink}">
+                    ${data.readMoreText}<i class="${data.arrowIconClass}"></i>
+                  </a>
                 </div>
-            `;
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
     });
 
-    provisionCardsContainer.innerHTML = cardHtmlArray.join(" ");
+    cardsContainer.innerHTML = cardHtmlArray.join(" ");
+    console.log(cardHtmlArray.join(" "))
   }
 
-  populateCards(cardDataArray);
+  populateCards(cardDataArray, "provision-card"); 
+  populateCards(medicineCardDataArray, "medical-card");
+
+
+  
 });
