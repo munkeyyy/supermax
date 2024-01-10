@@ -381,47 +381,65 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-  function populateCards(dataArray, containerId) {
-    var cardsContainer = document.querySelector(`#`+ containerId);
-    console.log(cardsContainer)
-    console.log(dataArray)
-    var cardHtmlArray = dataArray.map((data)=> {
-      return `
-        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-          <div class="tp-services-3__item p-relative mb-30 z-index-2 wow fadeInUp"
-            data-wow-duration=".9s"
-            data-wow-delay=".3s">
-            <div class="tp-services-3__thumb p-relative">
-              <img class="w-100" src="${data.imageUrl}" alt="">
-            </div>
-            <div class="tp-services-3__wrap d-flex align-items-start">
-              <div class="tp-services-3__icon">
-                <span><i class="fa ${data.iconClass}"></i></span>
-              </div>
-              <div class="tp-services-3__content">
-                <h3 class="tp-services-3-title-3">
-                  <a href="${data.readMoreLink}">${data.title}</a>
-                </h3>
-                <p>${data.description}</p>
-                <div class="tp-services-3__btn">
-                  <a class="tp-services-btn" href="${data.contactLink}">
-                    ${data.readMoreText}<i class="${data.arrowIconClass}"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
+  // function populateCards(dataArray, containerId) {
+  //   var cardsContainer = document.querySelector(`#`+ containerId);
+  //   console.log(cardsContainer)
+  //   console.log(dataArray)
+  //   var cardHtmlArray = dataArray.map((data)=> {
+  //     return `
+  //       <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+  //         <div class="tp-services-3__item p-relative mb-30 z-index-2 wow fadeInUp"
+  //           data-wow-duration=".9s"
+  //           data-wow-delay=".3s">
+  //           <div class="tp-services-3__thumb p-relative">
+  //             <img class="w-100" src="${data.imageUrl}" alt="">
+  //           </div>
+  //           <div class="tp-services-3__wrap d-flex align-items-start">
+  //             <div class="tp-services-3__icon">
+  //               <span><i class="fa ${data.iconClass}"></i></span>
+  //             </div>
+  //             <div class="tp-services-3__content">
+  //               <h3 class="tp-services-3-title-3">
+  //                 <a href="${data.readMoreLink}">${data.title}</a>
+  //               </h3>
+  //               <p>${data.description}</p>
+  //               <div class="tp-services-3__btn">
+  //                 <a class="tp-services-btn" href="${data.contactLink}">
+  //                   ${data.readMoreText}<i class="${data.arrowIconClass}"></i>
+  //                 </a>
+  //               </div>
+  //             </div>
+  //           </div>
+  //         </div>
+  //       </div>
+  //     `;
+  //   });
+
+  //   cardsContainer.innerHTML = cardHtmlArray.join(" ");
+  //   console.log(cardHtmlArray.join(" "))
+  // }
+
+  // populateCards(cardDataArray, "provision-card"); 
+  // populateCards(medicineCardDataArray, "medical-card");
+
+
+  var medicalCardContainer = document.getElementById("medical-card");
+  cardDataArray.forEach(function (item) {
+    var cardHtml = `
+      <div class="col-md-6">
+        <div class="card">
+          <img src="${item.imageUrl}" class="card-img-top" alt="${item.title}">
+          <div class="card-body">
+            <h5 class="card-title">${item.title}</h5>
+            <p class="card-text">${item.description}</p>
+            <a href="${item.readMoreLink}" class="btn btn-primary">${item.readMoreText}</a>
           </div>
         </div>
-      `;
-    });
+      </div>
+    `;
 
-    cardsContainer.innerHTML = cardHtmlArray.join(" ");
-    console.log(cardHtmlArray.join(" "))
-  }
-
-  populateCards(cardDataArray, "provision-card"); 
-  populateCards(medicineCardDataArray, "medical-card");
-
-
+    // Append the generated HTML to the container
+    medicalCardContainer.innerHTML += cardHtml;
+  });
   
 });
