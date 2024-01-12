@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Spirits and libations for onboard relaxation and enjoyment.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Beans and Peas, Dry",
       description: "Nutrient-rich legumes, a staple for hearty meals at sea.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Crispy snacks for quick, satisfying bites during maritime journeys.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Freshly baked essentials, from bread to pastries, for diverse cravings.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Dairy delights to enhance flavors in maritime culinary experiences.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Breakfast essentials for a nutritious start to the day at sea.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Cigarettes & Tobaccoes",
       description: "A selection of tobacco products for crew preferences.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Energizing hot beverages to keep the crew alert and refreshed..",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Dressing and Vinegar",
       description: "Condiments to add flavor and zest to maritime meals",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Essential dairy and frozen treats for balanced maritime diets",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Fresh and frozen fish options for diverse culinary creations.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Culinary enhancements for creative and delightful desserts.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Fruits",
       description: "Fresh, juicy fruits to add a burst of vitamins to meals.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Staple grains and cake mixes for versatile meal preparation",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Jam and Marmalade",
       description: "SSweet spreads to accompany breakfast and snacks",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Japanese Cigarettes & Tobaccoes",
       description: "Imported Japanese tobacco products for varied preferences.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -178,7 +178,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Refreshing fruit juices to quench thirst on maritime journeys",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -188,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Meat Products",
       description: "Processed meat products for convenient meal planning.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -198,7 +198,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Oil and Fat",
       description: "Cooking essentials to add richness and flavor to dishes",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -208,7 +208,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Pasta and Noodle",
       description: "Pasta and noodles for versatile and filling meal options",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -218,7 +218,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Pickles Western & Oriental",
       description: "Tangy pickles to complement Western and Oriental cuisines.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -228,7 +228,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Salt and Sugar",
       description: "Basic kitchen essentials to enhance taste in every dish.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -238,7 +238,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Sauce and Gravy / Sauce Mix",
       description: "Flavorful sauces and gravies to elevate culinary creations",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -248,7 +248,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Seasoning and Flavor / Bouillon",
       description: "Culinary enhancers for rich and savory maritime meals.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Refreshing beverages for a delightful break during the journey.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -269,7 +269,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Soup Powder",
       description: "Convenient soup mixes for warm, comforting meals onboard.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -280,7 +280,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Traditional soy products and Oriental specialties for diverse cuisine",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -291,7 +291,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Aromatic spices and herbs to infuse flavors into maritime dishes.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -301,7 +301,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Syrup",
       description: "Sweet syrups to enhance beverages and desserts.",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -312,7 +312,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Fresh and canned vegetables for balanced and nutritious meals",
       readMoreLink: "#",
-      readMoreText: "Get Provision",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -328,7 +328,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Essential tools for medical care, ensuring on-board health needs.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -339,7 +339,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Updated medications per the latest International Medical Guide for Ships.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -350,7 +350,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "UK-regulated supplies, ensuring compliance with maritime health standards and regulations.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -361,7 +361,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Broad range of pharmaceuticals ensuring comprehensive health care at sea.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -372,7 +372,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Comprehensive list of recommended medicines and medical equipment.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -386,7 +386,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Durable and protective solutions to combat wear and tear.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -397,7 +397,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Specialized equipment to enhance maritime security and deter piracy.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -408,7 +408,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Absorbent products reducing vibrations for crew comfort and safety.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -419,7 +419,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Comprehensive gear shielding crew members from various workplace hazards.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -430,7 +430,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Robust materials offering protection against cuts and lacerations.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -441,7 +441,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Safety eyewear ensuring optimal vision and protection at sea.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -452,7 +452,7 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "High-performance footwear safeguarding against maritime work hazards.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
@@ -463,10 +463,522 @@ document.addEventListener("DOMContentLoaded", function () {
       description:
         "Helmets and headgear providing essential protection during maritime activities.",
       readMoreLink: "contact.html",
-      readMoreText: "Get Health Supply",
+      readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
+  ];
+
+  var engineCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/electrical-1.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "Hand Lamps",
+      description:
+        "Portable illumination for versatile use on maritime expeditions.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-2.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Lamp Holders",
+      description:
+        "Secure fixtures supporting the deployment of various maritime lamps.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "Lamps",
+      description:
+        "Diverse lighting solutions catering to specific maritime requirements.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-7.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Lighting Fixtures",
+      description:
+        "Robust fixtures ensuring reliable and efficient maritime illumination..",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-4.jpg",
+      iconClass: "fi fi-rr-bullhorn",
+      title: "Megaphones / Loud Speakers",
+      description:
+        "Powerful audio equipment for effective communication on the high seas.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-5.jpg",
+      iconClass: "fi fi-rr-joystick",
+      title: "Pilot Lamps",
+      description:
+        "Indicator lights signaling vital information for maritime navigation.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-6.jpg",
+      iconClass: "fi fi-rr-plug-connection",
+      title: "Plug & Receptacles",
+      description:
+        "Essential electrical connectors ensuring seamless power distribution on vessels.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-8.jpg",
+      iconClass: "fi fi-rr-lamp",
+      title: "Reflector Lamps",
+      description:
+        "Lamps designed to enhance and direct light for maritime applications.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-9.jpg",
+      iconClass: "fi fi-rr-flux-capacitor",
+      title: "Solders",
+      description:
+        "High-quality materials for secure and durable maritime electrical connections.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-10.jpg",
+      iconClass: "fi fi-rr-light-switch",
+      title: "Switches",
+      description:
+        "Reliable control mechanisms for managing electrical systems on board.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-11.jpg",
+      iconClass: "fi fi-rr-cash-register",
+      title: "Test Instruments",
+      description:
+        "Precision tools for accurate diagnostics and maintenance of maritime systems.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-12.jpg",
+      iconClass: "fi fi-rr-washer",
+      title: "Ultrasonic Parts Cleaners",
+      description:
+        "Advanced equipment for efficient cleaning of maritime machinery components.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/electrical-13.jpg",
+      iconClass: "fi fi-rr-light-emergency-on",
+      title: "Warning Lights",
+      description:
+        "High-visibility lights signaling potential hazards for enhanced maritime safety.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+  ];
+  var cottonCharcoalCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/cotton-2.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "Maritime Cleaning Cloths",
+      description:
+        "Robust cotton cloths engineered for effective and durable maritime cleaning.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/cotton-1.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Maritime Cotton Towels",
+      description:
+        "High-absorbency towels crafted for maritime hygiene and cleaning applications.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/cotton-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "Charcoal-infused Maritime Bedding",
+      description:
+        "Bedding with charcoal for freshness and comfort in maritime living spaces.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/cotton-5.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Bed Accessories",
+      description:
+        "Versatile accessories enhancing comfort and functionality in maritime cabins.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/cotton-7.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Laundry Accessories",
+      description:
+        "Essential tools and supplies for efficient maritime laundry operations.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/cotton-6.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Cook & Steward Wear",
+      description:
+        "Maritime clothing designed for comfort and safety in kitchen environments.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/cotton-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Curtains",
+      description:
+        "Elegant curtains adding privacy and aesthetic appeal to maritime interiors.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+
+  ];
+  // spare card
+
+  var spareCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/spare-item-2.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "Butt Hinges",
+      description:
+        " Sturdy hinges for reliable and smooth door movements on ships.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-1.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Cabinet Door Accessories",
+      description:
+        "Essential hardware enhancing functionality and aesthetics of cabinet doors.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "Card Holders",
+      description:
+        "Secure holders for organized storage of identification cards on board.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-5.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Curtain Rails and Accessories",
+      description:
+        "Versatile rails and accessories ensuring efficient and stylish curtain installations.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-7.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Drip Pans",
+      description:
+        "Durable pans to contain and manage liquid spills in maritime environments.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-6.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Grab Rails",
+      description:
+        "Safety-enhancing rails providing support and stability in ship interiors.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Holders and Racks",
+      description:
+        "Organizational solutions for secure storage of items on maritime vessels.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Hooks and Fasteners",
+      description:
+        "Reliable hooks and fasteners for securing items in various ship spaces.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Lock Sets",
+      description:
+        "Complete sets offering secure and efficient locking solutions for maritime doors.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Padlocks and Door Fastening Items",
+      description:
+        "Essential padlocks and fastening items ensuring door security on ships.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Peep Glass",
+      description:
+        "Small windows for discreet observation, enhancing security on vessels.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Push Latches and Locks",
+      description:
+        "Convenient latches and locks for efficient and secure closure in maritime interiors.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+
+  ];
+  
+  // Stationery
+
+  var stationeryCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-1.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "Calculators",
+      description:
+        "Efficient maritime calculators for precise computations and navigational tasks.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-2.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Cameras",
+      description:
+        "High-quality cameras capturing moments and ensuring maritime security.ware enhancing functionality and aesthetics of cabinet doors.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "Chairs",
+      description:
+        "Comfortable and sturdy chairs for ergonomic seating on maritime vessels.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-4.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Computer and Ancillary Items",
+      description:
+        "Essential computer accessories for seamless operations on maritime computers.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-5.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Copy Machines",
+      description:
+        "Reliable copy machines facilitating document duplication in maritime settings.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-6.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Desk Accessories",
+      description:
+        "Organizational accessories enhancing workspace efficiency on ships.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-7.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Drawing Instruments / Rules",
+      description:
+        "Precision drawing instruments and rules for accurate maritime charting.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Erasers",
+      description:
+        "Durable erasers for precise corrections on maritime documents.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-9.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Files/Paper Holders / Trays",
+      description:
+        "Organizational solutions for efficient paper management on ships.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-10.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Filing Cabinets",
+      description:
+        "Secure filing cabinets for organized storage of maritime documents.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-11.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Glue / Paper Fastening Goods",
+      description:
+        "Quality glue and fastening supplies for secure document attachment.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-12.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Name Card Holders",
+      description:
+        "Professional holders for organized storage and display of maritime name cards.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/stationery-item-13.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Notebooks/Memo Pads",
+      description:
+        "High-quality notebooks and memo pads for efficient note-taking on board.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+
   ];
 
   function populateCards(dataArray, containerId) {
@@ -512,72 +1024,10 @@ document.addEventListener("DOMContentLoaded", function () {
   populateCards(cardDataArray, "provision-card");
   populateCards(medicineCardDataArray, "medical-card");
   populateCards(nauticalCardDataArray, "nautical-card");
+  populateCards(engineCardDataArray, "electrical-card");
+  populateCards(cottonCharcoalCardDataArray, "cotton-charcoal-card");
+  populateCards(spareCardDataArray, "spare-card");
+  populateCards(stationeryCardDataArray, "stationery-card");
 
-//   var medicalCardContainer = document.getElementById("medical-card");
-//   medicineCardDataArray.forEach(function (item) {
-//     var cardHtml = `
-//     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-//         <div class="tp-services-3__item p-relative mb-30 z-index-2 wow fadeInUp"
-//           data-wow-duration=".9s"
-//           data-wow-delay=".3s">
-//           <div class="tp-services-3__thumb p-relative">
-//             <img class="w-100" src="${item.imageUrl}" alt="">
-//           </div>
-//           <div class="tp-services-3__wrap d-flex align-items-start">
-//             <div class="tp-services-3__icon">
-//               <span><i class="fa ${item.iconClass}"></i></span>
-//             </div>
-//             <div class="tp-services-3__content">
-//               <h3 class="tp-services-3-title-3">
-//                 <a href="${item.readMoreLink}">${item.title}</a>
-//               </h3>
-//               <p>${item.description}</p>
-//               <div class="tp-services-3__btn">
-//                 <a class="tp-services-btn" href="${item.contactLink}">
-//                   ${item.readMoreText}<i class="${item.arrowIconClass}"></i>
-//                 </a>
-//               </div>
-//             </div>
-//           </div>
-//         </div>
-//       </div>
-//     `;
 
-//     // Append the generated HTML to the container
-//     medicalCardContainer.appendChild(cardHtml) ;
-//   });
-
-//   var cardContainer = document.getElementById("provision-card");
-//  cardDataArray.forEach(function (item) {
-//     var cardHtml = `
-//     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-//         <div class="tp-services-3__item p-relative mb-30 z-index-2 wow fadeInUp"
-//           data-wow-duration=".9s"
-//           data-wow-delay=".3s">
-//           <div class="tp-services-3__thumb p-relative">
-//             <img class="w-100" src="${item.imageUrl}" alt="">
-//           </div>
-//           <div class="tp-services-3__wrap d-flex align-items-start">
-//             <div class="tp-services-3__icon">
-//               <span><i class="fa ${item.iconClass}"></i></span>
-//             </div>
-//             <div class="tp-services-3__content">
-//               <h3 class="tp-services-3-title-3">
-//                 <a href="${item.readMoreLink}">${item.title}</a>
-//               </h3>
-//               <p>${item.description}</p>
-//               <div class="tp-services-3__btn">
-//                 <a class="tp-services-btn" href="${item.contactLink}">
-//                   ${item.readMoreText}<i class="${item.arrowIconClass}"></i>
-//                 </a>
-//               </div>
-//             </div>
-//           </div>
-//         </div>
-//       </div>
-//     `;
-
-//     // Append the generated HTML to the container
-//     cardContainer.appendChild(cardHtml);
-//   });
 });
