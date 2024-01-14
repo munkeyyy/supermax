@@ -731,7 +731,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-5.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-4.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Curtain Rails and Accessories",
       description:
@@ -742,7 +742,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-7.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-5.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Drip Pans",
       description:
@@ -764,7 +764,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-7.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Holders and Racks",
       description:
@@ -786,7 +786,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-9.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Lock Sets",
       description:
@@ -797,7 +797,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-10.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Padlocks and Door Fastening Items",
       description:
@@ -808,7 +808,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-11.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Peep Glass",
       description:
@@ -819,7 +819,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contactLink: "contact.html",
     },
     {
-      imageUrl: "assets/img/shipstores/spare-item-8.jpg",
+      imageUrl: "assets/img/shipstores/spare-item-12.jpg",
       iconClass: "fi fi-rr-lights-holiday",
       title: "Push Latches and Locks",
       description:
@@ -981,6 +981,684 @@ document.addEventListener("DOMContentLoaded", function () {
 
   ];
 
+  // machinery and welding
+  var machineryCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-1.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "Air Vent Heads",
+      description:
+        "Efficient air vent heads for optimal ventilation in ship compartments.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-2.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Anti-splashing Tape for Ship's Engine Room",
+      description:
+        "Protective tape preventing splashing in the ship's engine room.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "DIN Mud Boxes",
+      description:
+        "Mud boxes designed to DIN standards for effective filtration on ships.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-4.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "DIN Strainers",
+      description:
+        "Quality DIN strainers ensuring reliable fluid filtration in maritime systems.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-5.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Emergency Shut-off Valves",
+      description:
+        "Crucial valves for prompt emergency shutdowns in maritime situations.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-6.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Engine Starter Motor",
+      description:
+        "Powerful starter motors ensuring reliable ignition for ship engines.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-7.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Automatic Reverse Flow Prevention Couplings",
+      description:
+        "Couplings preventing reverse flow automatically for safe maritime operations.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Electric Welding Equipment:",
+      description:
+        "Cutting-edge electric welding equipment for precise and robust welds.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-9.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Electrode for Cast Iron",
+      description:
+        "Specialized electrodes for effective welding of cast iron components.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-10.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Electrode for High Tensile Strength Steel",
+      description:
+        "Welding electrodes designed for robust joints in high-strength steel.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/machinery-item-11.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Electrode for Stainless Steel",
+      description:
+        "Quality electrodes ensuring strong welds in maritime stainless steel applications.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+
+  ];
+
+  // ropes and hawsers
+
+  var ropesCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/rope-item-1.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "8 strand Wire Rope",
+      description:
+        "Robust 8-strand wire rope for reliable strength and durability at sea.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-2.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Cable Grips",
+      description:
+        "Grips ensuring secure cable connections and stability in maritime settings.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "Guy Preventers & Stoppers",
+      description:
+        "Preventers and stoppers enhancing safety in maritime guy-wire applications.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-4.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Mooring Links & Shackles",
+      description:
+        "Links and shackles designed for secure and efficient mooring operations.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-5.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Slings",
+      description:
+        "Versatile slings providing flexible and secure cargo handling solutions.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-6.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Non-rotating Wire Rope",
+      description:
+        "Non-rotating wire rope for stable and controlled lifting applications at sea.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-7.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Special Quality Wire Rope",
+      description:
+        "High-quality wire rope designed for specialized and demanding maritime tasks.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-8.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Stainless Steel Wire Rope",
+      description:
+        "Corrosion-resistant stainless steel wire rope for maritime durability and strength.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-9.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Steel Wire Rope",
+      description:
+        "General-purpose steel wire rope for a wide range of maritime applications.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-10.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Synthetic Miscellaneous Rope",
+      description:
+        "Durable synthetic ropes offering versatile solutions for various maritime needs.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/rope-item-11.jpg",
+      iconClass: "fi fi-rr-lights-holiday",
+      title: "Synthetic Mooring Rope",
+      description:
+        "Synthetic mooring rope providing strength and flexibility for secure mooring.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+
+  ];
+
+  // hose and couplings
+
+  var hoseCardDataArray = [
+    {
+      imageUrl: "assets/img/shipstores/hose-item-1.jpg",
+      iconClass: "fi fi-rr-lightbulb-on",
+      title: "Hose Couplings",
+      description:
+        "Robust couplings ensuring secure and efficient fluid connections at sea..",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/hose-item-2.jpg",
+      iconClass: "fi fi-rr-candle-holder",
+      title: "Hose Nozzles",
+      description:
+        "Precision-designed nozzles for controlled and effective fluid dispensing on vessels.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/shipstores/hose-item-3.jpg",
+      iconClass: "fi fi-rr-lamp-floor",
+      title: "GRubber Hose / P.V.C. Hose",
+      description:
+        "Durable rubber and P.V.C. hoses for versatile and reliable fluid transport.",
+      readMoreLink: "contact.html",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+
+  ];
+
+// brush and paint
+
+
+var paintCardDataArray = [
+  {
+    imageUrl: "assets/img/shipstores/paint-item-1.jpg",
+    iconClass: "fi fi-rr-lightbulb-on",
+    title: "Brooms / Carpet Brushes",
+    description:
+      "Versatile brooms and carpet brushes for effective cleaning on maritime vessels.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-2.jpg",
+    iconClass: "fi fi-rr-candle-holder",
+    title: "Floor Brushes / Hand Brushes",
+    description:
+      "Durable floor and hand brushes designed for efficient maritime cleaning tasks.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-3.jpg",
+    iconClass: "fi fi-rr-lamp-floor",
+    title: "Paint Brushes / Paint Rollers",
+    description:
+      "Professional-grade paint brushes and rollers for precise and even coatings.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-4.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Tube Brushes / Cup Brushes",
+    description:
+      "Specialized tube and cup brushes for intricate and thorough cleaning in vessels.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-5.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Vikan Brushes",
+    description:
+      "Vikan brushes, known for quality and efficiency in maintaining maritime cleanliness.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-6.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Paste Paint",
+    description:
+      "Thick and adhesive paste paint for durable and protective coatings.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-7.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Putty",
+    description:
+      "Versatile putty for filling gaps and ensuring a smooth, even surface.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-8.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Reflecting Paint",
+    description:
+      "Paint designed with reflective properties for enhanced visibility and safety..",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Bituminous Paint",
+    description:
+      "Weather-resistant bituminous paint providing long-lasting protection to surfaces.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-10.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Remover",
+    description:
+      "Powerful remover for efficient stripping and cleaning of painted surfaces.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-11.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Spray Marking Paint",
+    description:
+      "Convenient spray marking paint for clear and visible markings on maritime surfaces..",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Stain",
+    description:
+      "Stain for enhancing and protecting wood surfaces on maritime vessels..",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Thinner",
+    description:
+      "Thinner for adjusting viscosity and facilitating smooth paint application.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Heat Resistant Paint",
+    description:
+      "Specially formulated paint resisting high temperatures for engine rooms and machinery.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Non-Slip Paint",
+    description:
+      "Slip-resistant paint ensuring safety on decks and high-traffic maritime areas.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+
+];
+
+
+// cleaning and chemicals
+
+var cleaningCardDataArray = [
+  {
+    imageUrl: "assets/img/shipstores/paint-item-1.jpg",
+    iconClass: "fi fi-rr-lightbulb-on",
+    title: "Common Chemicals",
+    description:
+      "Versatile chemicals for various maritime cleaning and maintenance applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-2.jpg",
+    iconClass: "fi fi-rr-candle-holder",
+    title: "Distilled Water",
+    description:
+      "Purity in every drop - distilled water for essential maritime applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-3.jpg",
+    iconClass: "fi fi-rr-lamp-floor",
+    title: "Floor Maintenance Products",
+    description:
+      "Specialized products ensuring the longevity and cleanliness of maritime floors.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-4.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Galley Cleaning Detergent",
+    description:
+      "Powerful detergent tailored for efficient cleaning in maritime galley areas.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-5.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Hand Cleaning Soap and Detergent",
+    description:
+      "Gentle yet effective soaps and detergents for superior hand hygiene onboard.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-6.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Laundry Soap and Detergent",
+    description:
+      "Quality laundry soap and detergent for pristine maritime garment care.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-7.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Marine Maintenance Chemicals",
+    description:
+      "Advanced chemicals for preserving and enhancing the performance of marine equipment.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-8.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Misc. Cleaner and Polish Goods",
+    description:
+      "Diverse cleaners and polishes for maintaining the shine and cleanliness of various surfaces.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Sanitary Items",
+    description:
+      "Essential items ensuring maritime spaces meet the highest standards of hygiene and sanitation.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+
+];
+
+
+// hand tools and cutting  tools
+
+
+var toolsCardDataArray = [
+  {
+    imageUrl: "assets/img/shipstores/paint-item-1.jpg",
+    iconClass: "fi fi-rr-lightbulb-on",
+    title: "Common Chemicals",
+    description:
+      "Versatile chemicals for various maritime cleaning and maintenance applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-2.jpg",
+    iconClass: "fi fi-rr-candle-holder",
+    title: "Distilled Water",
+    description:
+      "Purity in every drop - distilled water for essential maritime applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-3.jpg",
+    iconClass: "fi fi-rr-lamp-floor",
+    title: "Floor Maintenance Products",
+    description:
+      "Specialized products ensuring the longevity and cleanliness of maritime floors.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-4.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Galley Cleaning Detergent",
+    description:
+      "Powerful detergent tailored for efficient cleaning in maritime galley areas.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-5.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Hand Cleaning Soap and Detergent",
+    description:
+      "Gentle yet effective soaps and detergents for superior hand hygiene onboard.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-6.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Laundry Soap and Detergent",
+    description:
+      "Quality laundry soap and detergent for pristine maritime garment care.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-7.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Marine Maintenance Chemicals",
+    description:
+      "Advanced chemicals for preserving and enhancing the performance of marine equipment.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-8.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Misc. Cleaner and Polish Goods",
+    description:
+      "Diverse cleaners and polishes for maintaining the shine and cleanliness of various surfaces.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Sanitary Items",
+    description:
+      "Essential items ensuring maritime spaces meet the highest standards of hygiene and sanitation.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+
+
+];
+
   function populateCards(dataArray, containerId) {
     var cardsContainer = document.querySelector(`#`+ containerId);
     console.log(cardsContainer, containerId)
@@ -1028,6 +1706,12 @@ document.addEventListener("DOMContentLoaded", function () {
   populateCards(cottonCharcoalCardDataArray, "cotton-charcoal-card");
   populateCards(spareCardDataArray, "spare-card");
   populateCards(stationeryCardDataArray, "stationery-card");
+  populateCards(machineryCardDataArray, "machinery-card");
+  populateCards(ropesCardDataArray, "rope-card");
+  populateCards(hoseCardDataArray, "hose-card");
+  populateCards(paintCardDataArray, "paint-card");
+  populateCards(cleaningCardDataArray, "cleaning-card");
+  populateCards(toolsCardDataArray, "tools-card");
 
 
 });
