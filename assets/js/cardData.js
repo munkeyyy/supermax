@@ -1063,7 +1063,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       imageUrl: "assets/img/shipstores/machinery-item-8.jpg",
       iconClass: "fi fi-rr-lights-holiday",
-      title: "Electric Welding Equipment:",
+      title: "Electric Welding Equipment",
       description:
         "Cutting-edge electric welding equipment for precise and robust welds.",
       readMoreLink: "contact.html",
@@ -1410,7 +1410,7 @@ var paintCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    imageUrl: "assets/img/shipstores/paint-item-13.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Thinner",
     description:
@@ -1421,7 +1421,7 @@ var paintCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    imageUrl: "assets/img/shipstores/paint-item-14.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Heat Resistant Paint",
     description:
@@ -1432,7 +1432,7 @@ var paintCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-12.jpg",
+    imageUrl: "assets/img/shipstores/paint-item-15.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Non-Slip Paint",
     description:
@@ -1450,7 +1450,7 @@ var paintCardDataArray = [
 
 var cleaningCardDataArray = [
   {
-    imageUrl: "assets/img/shipstores/paint-item-1.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-1.jpg",
     iconClass: "fi fi-rr-lightbulb-on",
     title: "Common Chemicals",
     description:
@@ -1461,7 +1461,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-2.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-2.jpg",
     iconClass: "fi fi-rr-candle-holder",
     title: "Distilled Water",
     description:
@@ -1472,7 +1472,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-3.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-3.jpg",
     iconClass: "fi fi-rr-lamp-floor",
     title: "Floor Maintenance Products",
     description:
@@ -1483,7 +1483,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-4.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-4.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Galley Cleaning Detergent",
     description:
@@ -1494,7 +1494,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-5.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-5.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Hand Cleaning Soap and Detergent",
     description:
@@ -1505,7 +1505,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-6.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-6.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Laundry Soap and Detergent",
     description:
@@ -1516,7 +1516,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-7.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-7.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Marine Maintenance Chemicals",
     description:
@@ -1527,7 +1527,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-8.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-8.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Misc. Cleaner and Polish Goods",
     description:
@@ -1538,7 +1538,7 @@ var cleaningCardDataArray = [
     contactLink: "contact.html",
   },
   {
-    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    imageUrl: "assets/img/shipstores/clean-item-9.jpg",
     iconClass: "fi fi-rr-lights-holiday",
     title: "Sanitary Items",
     description:
@@ -1559,9 +1559,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-1.jpg",
     iconClass: "fi fi-rr-lightbulb-on",
-    title: "Common Chemicals",
+    title: "Anvils/Blacksmiths' Tongs",
     description:
-      "Versatile chemicals for various maritime cleaning and maintenance applications.",
+      "Sturdy forging base, essential for blacksmithing; Tongs for secure grip.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1570,9 +1570,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-2.jpg",
     iconClass: "fi fi-rr-candle-holder",
-    title: "Distilled Water",
+    title: "Auger Bits/Gimlets",
     description:
-      "Purity in every drop - distilled water for essential maritime applications.",
+      "Precision wood-boring tools; Gimlets for hand-drilled finesse.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1581,9 +1581,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-3.jpg",
     iconClass: "fi fi-rr-lamp-floor",
-    title: "Floor Maintenance Products",
+    title: "Bahco Tools",
     description:
-      "Specialized products ensuring the longevity and cleanliness of maritime floors.",
+      "Quality hand tools by Bahco; durability and precision in every piece.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1592,9 +1592,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-4.jpg",
     iconClass: "fi fi-rr-lights-holiday",
-    title: "Galley Cleaning Detergent",
+    title: "Bars/Nail Pullers",
     description:
-      "Powerful detergent tailored for efficient cleaning in maritime galley areas.",
+      "Robust nail extracting tools; Bars for heavy-duty prying.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1603,9 +1603,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-5.jpg",
     iconClass: "fi fi-rr-lights-holiday",
-    title: "Hand Cleaning Soap and Detergent",
+    title: "Bolt & Nut Loosener",
     description:
-      "Gentle yet effective soaps and detergents for superior hand hygiene onboard.",
+      "Efficient wrench for stubborn bolts and nuts; Loosens with ease.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1614,9 +1614,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-6.jpg",
     iconClass: "fi fi-rr-lights-holiday",
-    title: "Laundry Soap and Detergent",
+    title: "Carborundum Paste",
     description:
-      "Quality laundry soap and detergent for pristine maritime garment care.",
+      "Abrasive paste for sharpening tools; Maintains cutting precision.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1625,9 +1625,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-7.jpg",
     iconClass: "fi fi-rr-lights-holiday",
-    title: "Marine Maintenance Chemicals",
+    title: "Chisels",
     description:
-      "Advanced chemicals for preserving and enhancing the performance of marine equipment.",
+      "Versatile cutting tools; Chisels for carving and shaping materials. ",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1636,9 +1636,9 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-8.jpg",
     iconClass: "fi fi-rr-lights-holiday",
-    title: "Misc. Cleaner and Polish Goods",
+    title: "Cutters/Shears",
     description:
-      "Diverse cleaners and polishes for maintaining the shine and cleanliness of various surfaces.",
+      "Precision cutting instruments; Shears for clean, efficient cuts.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1647,9 +1647,75 @@ var toolsCardDataArray = [
   {
     imageUrl: "assets/img/shipstores/paint-item-9.jpg",
     iconClass: "fi fi-rr-lights-holiday",
-    title: "Sanitary Items",
+    title: "Drum Hooks/Lifting Clamps",
     description:
-      "Essential items ensuring maritime spaces meet the highest standards of hygiene and sanitation.",
+      "Heavy-duty lifting solutions; Drum hooks and clamps for secure handling.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Drum Opening Spanners/Drum Cocks",
+    description:
+      "Specialized wrenches for drum access; Cocks for controlled liquid release.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Carbide Rotary Burs",
+    description:
+      "High-speed material removal; Carbide burs for precision shaping.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Drill Machine Attachments/Drills",
+    description:
+      "Enhance drill functionality; Drills and attachments for diverse applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Hole Saws",
+    description:
+      "Efficiently cut large holes in various materials; Ideal for construction.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Lathe Machine Attachments/Reamers",
+    description:
+      "Expand lathe capabilities, Reamers for smooth, accurate hole finishing.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Screw Extractors/Taps/Dies",
+    description:
+      "Essential for thread repair, Screw extractors, taps, and dies for versatility.",
     readMoreLink: "contact.html",
     readMoreText: "Get Supply",
     arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -1657,6 +1723,352 @@ var toolsCardDataArray = [
   },
 
 
+];
+
+// packing card
+
+var packingCardDataArray = [
+  {
+    imageUrl: "assets/img/shipstores/paint-item-1.jpg",
+    iconClass: "fi fi-rr-lightbulb-on",
+    title: "Aluminium Tapes",
+    description:
+      "Versatile adhesive tapes with aluminum backing for durable sealing applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-2.jpg",
+    iconClass: "fi fi-rr-candle-holder",
+    title: "Anticorrosive Tapes",
+    description:
+      "Tapes designed to protect surfaces from corrosion, ensuring long-lasting durability.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-3.jpg",
+    iconClass: "fi fi-rr-lamp-floor",
+    title: "Brake Linings",
+    description:
+      "Critical friction materials for dependable and efficient braking systems.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-4.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Carbon Cloth Gloves",
+    description:
+      "Protective gloves with carbon cloth for heat resistance and tactile sensitivity.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-5.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Carbonized Fibre Spinning & Textile",
+    description:
+      "Textile products crafted from carbonized fibers for enhanced strength and resilience.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-6.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Ceramic Spinning & Textile",
+    description:
+      "Textile materials spun from ceramics, offering heat resistance and durability.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-7.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Door Packings",
+    description:
+      "Sealing solutions for doors; packings to prevent leakage and ensure insulation.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-8.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Emergency Repair Patch & Tape",
+    description:
+      "PQuick-fix solutions for temporary repairs; patches and tapes for emergencies.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Filter Materials",
+    description:
+      "High-quality materials for effective filtration in various industrial applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Gasket Removers",
+    description:
+      "Efficient agents to remove gaskets and adhesives for maintenance purposes.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Gaskets/Joint Sheets",
+    description:
+      "Durable gaskets and joint sheets for reliable sealing in diverse applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Gauge Glass Materials",
+    description:
+      "Materials for transparent gauge glasses, crucial for fluid level monitoring.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Glass Fibre Spinning & Textile",
+    description:
+      "Textile products derived from glass fibers for strength and insulation",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Heat Insulation Pipe Covers",
+    description:
+      "Protective covers for pipes, providing insulation against heat and cold.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Non-combustible Divisions",
+    description:
+      "Dividing materials resistant to combustion, ensuring fire safety in structures.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "O Rings/Copper Rings",
+    description:
+      "Essential sealing components; O rings and copper rings for various applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "PTFE Rings",
+    description:
+      "Polytetrafluoroethylene rings for superior chemical resistance and sealing.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Packings",
+    description:
+      "Diverse packing materials for sealing and insulation in industrial settings.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-1.jpg",
+    iconClass: "fi fi-rr-lightbulb-on",
+    title: "Porthole Glasses",
+    description:
+      "Transparent and durable glasses for portholes, ensuring visibility in marine applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-2.jpg",
+    iconClass: "fi fi-rr-candle-holder",
+    title: "Resin Based Maintenance Products - Belzona",
+    description:
+      "High-performance resin-based maintenance solutions by Belzona for industrial repairs.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-3.jpg",
+    iconClass: "fi fi-rr-lamp-floor",
+    title: "Resin Based Maintenance Products - Cordobond:",
+    description:
+      "Cordobond products offer reliable resin-based solutions for maintenance tasks.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-4.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Resin Based Maintenance Products - Devcon",
+    description:
+      "Devcon provides effective resin-based maintenance products for industrial applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-5.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Resin Based Maintenance Products - Diamant",
+    description:
+      "Diamant offers durable resin-based maintenance solutions for various industries.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-6.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Resin Based Maintenance Products - Enecon",
+    description:
+      "Enecon provides advanced resin-based maintenance products for industrial repairs.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-7.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Resin Based Maintenance Products - Loctite",
+    description:
+      "Loctite's resin-based maintenance products ensure strong and lasting repairs.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-8.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Resin Based Maintenance Products - Weicon",
+    description:
+      "Weicon provides quality resin-based maintenance products for diverse applications.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Resin Based Maintenance Products - Wencon",
+    description:
+      "Wencon offers effective resin-based maintenance solutions for industrial maintenance",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Sealing & Bonding Items",
+    description:
+      "Comprehensive items for sealing and bonding applications in various industries.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Carbide Rotary Burs",
+    description:
+      "High-speed material removal; Carbide burs for precision shaping.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Seals",
+    description:
+      "Critical components for preventing leakage and ensuring airtight or watertight seals.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
+  {
+    imageUrl: "assets/img/shipstores/paint-item-9.jpg",
+    iconClass: "fi fi-rr-lights-holiday",
+    title: "Teflon Products",
+    description:
+      "Products featuring Teflon for non-stick properties and resistance to high temperatures.",
+    readMoreLink: "contact.html",
+    readMoreText: "Get Supply",
+    arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+    contactLink: "contact.html",
+  },
 ];
 
   function populateCards(dataArray, containerId) {
@@ -1671,7 +2083,7 @@ var toolsCardDataArray = [
               data-wow-duration=".9s"
               data-wow-delay=".3s">
               <div class="tp-services-3__thumb p-relative">
-                <img class="w-100" src="${data.imageUrl}" alt="">
+                <img class="w-100" loading="lazy" src="${data.imageUrl}" alt="">
               </div>
               <div class="tp-services-3__wrap d-flex align-items-start">
                 <div class="tp-services-3__icon">
@@ -1712,6 +2124,8 @@ var toolsCardDataArray = [
   populateCards(paintCardDataArray, "paint-card");
   populateCards(cleaningCardDataArray, "cleaning-card");
   populateCards(toolsCardDataArray, "tools-card");
+  populateCards(packingCardDataArray, "packing-card");
+
 
 
 });
