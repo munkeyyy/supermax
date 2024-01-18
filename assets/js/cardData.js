@@ -6,7 +6,38 @@ document.addEventListener("DOMContentLoaded", function () {
       iconClass: "fi fi-rr-bottle",
       title: "Bond supplies",
       description:
-        "Spirits and libations for onboard relaxation and enjoyment.",
+        "Lickers , Beers , Wine , WHistkey & Cigarettes",
+      readMoreLink: "#",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/provisions/vegetables.jpg",
+      iconClass: "fi fi-rr-carrot",
+      title: "Fresh Vegetables",
+      description:
+        "Fresh and canned vegetables for balanced and nutritious meals",
+      readMoreLink: "#",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/provisions/fruits.jpg",
+      iconClass: "fi fi-rr-strawberry",
+      title: "Fruits",
+      description: "Fresh, juicy fruits to add a burst of vitamins to meals.",
+      readMoreLink: "#",
+      readMoreText: "Get Supply",
+      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
+      contactLink: "contact.html",
+    },
+    {
+      imageUrl: "assets/img/provisions/cigarettes.jpg",
+      iconClass: "fi fi-rr-wheat",
+      title: "Dry Provisions",
+      description: "Dals , Masala , Oils , Sugars.",
       readMoreLink: "#",
       readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
@@ -66,16 +97,7 @@ document.addEventListener("DOMContentLoaded", function () {
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
-    {
-      imageUrl: "assets/img/provisions/cigarettes.jpg",
-      iconClass: "fi fi-rr-smoking",
-      title: "Cigarettes & Tobaccoes",
-      description: "A selection of tobacco products for crew preferences.",
-      readMoreLink: "#",
-      readMoreText: "Get Supply",
-      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
-      contactLink: "contact.html",
-    },
+    
     {
       imageUrl: "assets/img/provisions/coffee.jpg",
       iconClass: "fi fi-rr-mug-hot-alt",
@@ -130,16 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
-    {
-      imageUrl: "assets/img/provisions/fruits.jpg",
-      iconClass: "fi fi-rr-strawberry",
-      title: "Fruits",
-      description: "Fresh, juicy fruits to add a burst of vitamins to meals.",
-      readMoreLink: "#",
-      readMoreText: "Get Supply",
-      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
-      contactLink: "contact.html",
-    },
+    
     {
       imageUrl: "assets/img/provisions/cake-mix.jpg",
       iconClass: "fi fi-rr-bag-seedling",
@@ -161,16 +174,7 @@ document.addEventListener("DOMContentLoaded", function () {
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
-    {
-      imageUrl: "assets/img/provisions/j-cigarettes.jpg",
-      iconClass: "fi fi-rr-smoking",
-      title: "Japanese Cigarettes & Tobaccoes",
-      description: "Imported Japanese tobacco products for varied preferences.",
-      readMoreLink: "#",
-      readMoreText: "Get Supply",
-      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
-      contactLink: "contact.html",
-    },
+    
     {
       imageUrl: "assets/img/provisions/juice.jpg",
       iconClass: "fi fi-rr-drink-alt",
@@ -305,17 +309,7 @@ document.addEventListener("DOMContentLoaded", function () {
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
       contactLink: "contact.html",
     },
-    {
-      imageUrl: "assets/img/provisions/vegetables.jpg",
-      iconClass: "fi fi-rr-carrot",
-      title: "Vegetables",
-      description:
-        "Fresh and canned vegetables for balanced and nutritious meals",
-      readMoreLink: "#",
-      readMoreText: "Get Supply",
-      arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
-      contactLink: "contact.html",
-    },
+    
   ];
 
   // medicineDataArray
