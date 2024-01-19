@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       iconClass: "fi fi-rr-bottle",
       title: "Bond supplies",
       description:
-        "Lickers , Beers , Wine , WHistkey & Cigarettes",
+        "Liquor , Beers , Wine , Whiskey & Cigarettes",
       readMoreLink: "#",
       readMoreText: "Get Supply",
       arrowIconClass: "fa-sharp fa-regular fa-arrow-right",
