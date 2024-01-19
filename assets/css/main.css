@@ -8465,7 +8465,8 @@ blockquote span {
 }
 .tp-testimonial__nav {
   position: absolute;
-  bottom: 85px;
+  bottom: 50px;
+  left: 50%;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-testimonial__nav {
@@ -9254,6 +9255,7 @@ blockquote span {
   padding: 40px;
   transition: 0.4s;
   padding-bottom: 37px;
+  height: 197px;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
   (max-width: 767px) {
